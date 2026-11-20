@@ -1,0 +1,12 @@
+ultralytics==8.4.215
+torch==2.15.0
+torchvision
+onnx
+onnxruntime==1.32.0
+opencv-python
+numpy
+pandas
+matplotlib
+Pillow
+PyYAML
+scipy
